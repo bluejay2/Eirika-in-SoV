@@ -6,4 +6,4 @@ She can be recruited in 2 ways:
 2. Complete Thabes Labyrinth 1 time.
 
 **Instructions**:
-Place all of these folder in **sd/luma/titles/[SoV Title ID]/romfs
+Place all of these folder in **sd/luma/titles/[SoV Title ID]/romfs**
