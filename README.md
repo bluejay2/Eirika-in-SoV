@@ -7,3 +7,7 @@ She joins in 2 ways:
 
 **Instructions**:
 Place all of these folders in **sd/luma/titles/[SoV Title ID]/romfs**
+
+
+**To Do:**
+1. Map sprite touch ups
