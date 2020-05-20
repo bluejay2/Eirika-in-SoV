@@ -18,4 +18,5 @@ Place all of these folders in **sd/luma/titles/[SoV Title ID]/romfs**
 
 **Credits:**
 Thane98 for Paragon
+
 Moonling for writing most of the modules that Paragon uses
