@@ -17,6 +17,6 @@ Place all of these folders in **sd/luma/titles/[SoV Title ID]/romfs**
 1. Re do the map sprite from scratch.
 
 **Credits:**
-Thane98 for Paragon
+1, Thane98 for Paragon
 
-Moonling for writing most of the modules that Paragon uses
+2. Moonling for writing most of the modules that Paragon uses
