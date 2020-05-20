@@ -14,4 +14,8 @@ Place all of these folders in **sd/luma/titles/[SoV Title ID]/romfs**
 ![](https://cdn.discordapp.com/attachments/354835469735034881/693880370629967962/2020-03-29_12-51-22.791_top.png) ![](https://cdn.discordapp.com/attachments/354835469735034881/693865900952256623/2020-03-29_12-52-15.875_top.png)
 
 **To Do:**
-1. Map sprite touch ups
+1. Re do the map sprite from scratch.
+
+**Credits:**
+Thane98 for Paragon
+Moonling for writing most of the modules that Paragon uses
